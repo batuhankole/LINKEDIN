@@ -14,7 +14,7 @@
 ### Built with 
 
 - HTML5
-- css
+- CSS
 - Bootstrap
 
 
