@@ -15,7 +15,7 @@
 
 - HTML5
 - CSS
-- Bootstrap
+- BOOTSTRAP
 
 
 
